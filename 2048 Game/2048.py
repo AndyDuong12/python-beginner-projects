@@ -75,5 +75,6 @@ while(True):
         print("Invalid Key Pressed")
 
     # print the matrix after each move
+    print('')
     for i in range(len(matrix)):
         print(matrix[i])
